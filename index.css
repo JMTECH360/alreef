@@ -86,11 +86,11 @@ body {
   background: #fff;
   
 }
-.food-card{
+.food-card {
   margin-top: 20px;
   margin-bottom: 30px;
   background: #2f2e2e;
-  padding: 20px;
+  padding: 20px 3px;
   border-radius: 10px;
 }
 .food-title{
