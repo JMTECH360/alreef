@@ -36,7 +36,8 @@ body {
 .nav-link{
   color: white;
   border: none !important;
-  font-size: 14;
+  font-size: 18;
+  font-weight: bold;
 }
 
 .nav-link:hover{
@@ -114,8 +115,8 @@ body {
 
 .price{
   font-size: 20px;
-  margin-left: 20px;
-  display: block;
+  margin-left: 10px;
+ 
 }
 .price span{
   font-size: 15px;
