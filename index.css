@@ -55,7 +55,6 @@ body {
   background-position: center;
   background-size: cover;
   width: 80%;
-
   height: auto;
 }
 
@@ -124,6 +123,26 @@ body {
 .food-img img{
   border-radius: 20px;
   border: 3px solid yellow;
+}
+
+.arbi button{
+  display: block;
+  text-align: end;
+ 
+  background: none;
+  border: none;
+  border-right: 2px solid yellow;
+  margin-top: 10px;
+  color: white;
+  width: 100%;
+  font-size: 18px;
+
+}
+
+.arbi {
+  display: flex;
+  flex-direction: column;
+  align-items: end;
 }
 
 
