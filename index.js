@@ -14,3 +14,11 @@ var swiper = new Swiper(".mySwiper", {
     el: ".swiper-pagination",
   },
 });
+
+
+
+let loader = document.getElementById("loader");
+
+window.addEventListener("load", function(){
+  loader.style.display = "none";
+})
