@@ -34,11 +34,11 @@ body {
   
 }
 
-.nav-link{
+.nav-link {
   color: white;
-  border: none !important;
-  font-size: 20;
   font-weight: bold;
+  padding: 0px 20px;
+  border: none !important;
 }
 
 .nav-link:hover{
