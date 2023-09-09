@@ -37,7 +37,7 @@ body {
 .nav-link{
   color: white;
   border: none !important;
-  font-size: 18;
+  font-size: 20;
   font-weight: bold;
 }
 
@@ -164,11 +164,12 @@ body {
   .nav-tabs{
     display: block;
   }
-  .nav-link{
+  .nav-link {
+    font-weight: bold;
     color: white;
     border: none !important;
-    font-size: 18px;
-  }
+    font-size: 20px;
+}
 
   .price{
     display: inline-block;
