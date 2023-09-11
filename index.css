@@ -16,21 +16,23 @@ body {
 
 }
 
-.nav-item{
+.nav-item {
   background: none !important;
-  border: none;
-  margin-top: 10px;
   padding: 0;
-  
+  border: 2px solid yellow;
+  border-radius: 25px;
+  margin: 6px 2px;
+  text-align: center;
 }
 
 .nav-item:hover{
-  border-right: 2px solid yellow;
+  border-color: yellow;
 }
-.active{
-  background:none !important;
+.nav-item .active{
+  background:yellow !important;
   opacity: 1 !important;
-  color: yellow !important;
+  color: black !important;
+  border-radius:25px;
   
 }
 
